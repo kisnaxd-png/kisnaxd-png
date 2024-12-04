@@ -1,4 +1,4 @@
--👋 Hi, I’m Krishna Gera
+- 👋 Hi, I’m Krishna Gera
 
 -👀 I’m currently pursuing my BTech in CSE from MIT Manipal Batch of 2028
 
